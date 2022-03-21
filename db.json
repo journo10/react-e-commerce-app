@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple Macbook Air MGN63TU-A M1 8GB Ram 256GB macOS 13 inç Uzay Grisi Laptop - Notebook",
+      "price": 2500,
+      "unitsInStock": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=782&q=80",
+      "category": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Apple Macbook Air MGN63TU-A M1 8GB Ram 256GB macOS 13 inç Uzay Grisi Laptop - Notebook",
+      "price": 2500,
+      "unitsInStock": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1544006659-f0b21884ce1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "category": "Bilgisayar"
+    },
+    {
+      "id": 3,
+      "name": "Apple Macbook Air MGN63TU-A M1 8GB Ram 256GB macOS 13 inç Uzay Grisi Laptop - Notebook",
+      "price": 1500,
+      "unitsInStock": 7,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1521159311222-fcd72db9bd8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "category": "Tablet"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy Tab S6 Lite Wi-Fi SM-P610 64GB 10.4 inç Tablet Dağ Grisi",
+      "price": 1500,
+      "unitsInStock": 9,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1565221287653-9a2713dbe4ef?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+      "category": "Tablet"
+    },
+    {
+      "id": 5,
+      "name": "Logitech G300S 910-004346 Mouse",
+      "price": 25,
+      "unitsInStock": 11,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1586816879360-004f5b0c51e5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+      "category": "Mouse"
+    },
+    {
+      "id": 6,
+      "name": "MSI PAW3519 GM08 4.200DPI Gg Clutch Pixart Oyuncu Mouse",
+      "price": 50,
+      "unitsInStock": 6,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1619334084350-b093f0a9b40e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "category": "Mouse"
+    },
+    {
+      "id": 7,
+      "name": "Apple iPhone 11 64GB 4GB Ram 6.1 inç 12MP Akıllı Cep Telefonu Siyah",
+      "price": 2200,
+      "unitsInStock": 13,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1585060282215-39a72f82385c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNlbGwlMjBwaG9uZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "category": "Telefon"
+    },
+    {
+      "id": 8,
+      "name": "Apple iPhone 11 128GB 4GB Ram 6.1 inç 12MP Akıllı Cep Telefonu Yeşil",
+      "price": 2400,
+      "unitsInStock": 2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNlbGwlMjBwaG9uZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "category": "Telefon"
+    },
+    {
+      "id": 9,
+      "name": "Nikon Coolpix P1000 Dijital Fotoğraf Makinesi",
+      "price": 1600,
+      "unitsInStock": 8,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1613631883052-454579eb648f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FtZXJhc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "category": 5
+    },
+    {
+      "id": 10,
+      "name": "Canon EOS 2000D 18-55 mm DSLR Fotoğraf Makinesi",
+      "price": 1650,
+      "unitsInStock": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1519638831568-d9897f54ed69?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2FtZXJhc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "category": "Fotoğraf Makinesi"
+    },
+    {
+      "id": 11,
+      "name": "105 cm Tripot Ayak Telefon Fotoğraf Makinesi Kamera Tutucu",
+      "price": 125,
+      "unitsInStock": 15,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1573385233252-2293057a4e3c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHRyaXBvZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "category": "Tripot"
+    },
+    {
+      "id": 12,
+      "name": "Telefon Kamera Tutucu Tripot Ayak 105 cm (Telefon Tutuculu)",
+      "price": 145,
+      "unitsInStock": 18,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://images.unsplash.com/photo-1540945573388-fb1aa7ecb444?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHRyaXBvZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "category": "Tripot"
+    }
+  ],
+  "register": [
+    {
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "12345",
+      "passwordConfirm": "12345",
+      "id": 1
+    }
+  ],
+  "login": [
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 2
+    }
+  ]
+}
