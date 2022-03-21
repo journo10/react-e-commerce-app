@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 
 const initialState = { name: "", price: "", unitsInStock: "", description: "", imageUrl: "", category: "" }
-const ProductsAdd = () => {
+const ProductsAdd = ({ getProductsData }) => {
   const [form, setForm] = useState(initialState)
   const navigate = useNavigate()
 
@@ -15,7 +15,7 @@ const ProductsAdd = () => {
     })
   }
 
-  const onSubmitForm = (e) => {
+  const onSubmitForm = async (e) => {
     e.preventDefault()
     const newProduct = {
       name: form.name,
@@ -25,7 +25,8 @@ const ProductsAdd = () => {
       imageUrl: form.imageUrl,
       category: form.category
     }
-    axios.post("http://localhost:5000/products", newProduct);
+    const { data } = await axios.post("http://localhost:5000/products", newProduct);
+    getProductsData(data)//Ürün eklendiğinde sayfa yenilenmeden ekranda hemen görünmesi için
     navigate("/")
     setForm({
       name: "",

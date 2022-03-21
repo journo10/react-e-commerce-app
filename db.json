@@ -1,24 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Apple Macbook Air MGN63TU-A M1 8GB Ram 256GB macOS 13 inç Uzay Grisi Laptop - Notebook",
-      "price": 2500,
-      "unitsInStock": 5,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "imageUrl": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=782&q=80",
-      "category": "Bilgisayar"
-    },
-    {
-      "id": 2,
-      "name": "Apple Macbook Air MGN63TU-A M1 8GB Ram 256GB macOS 13 inç Uzay Grisi Laptop - Notebook",
-      "price": 2500,
-      "unitsInStock": 3,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "imageUrl": "https://images.unsplash.com/photo-1544006659-f0b21884ce1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
-      "category": "Bilgisayar"
-    },
-    {
       "id": 3,
       "name": "Apple Macbook Air MGN63TU-A M1 8GB Ram 256GB macOS 13 inç Uzay Grisi Laptop - Notebook",
       "price": 1500,
@@ -116,6 +98,27 @@
       "password": "12345",
       "passwordConfirm": "12345",
       "id": 1
+    },
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "password": "12345",
+      "passwordConfirm": "12345",
+      "id": 2
+    },
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "password": "12345",
+      "passwordConfirm": "12345",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "tst@gmail.com",
+      "password": "12345",
+      "passwordConfirm": "12345",
+      "id": 4
     }
   ],
   "login": [
@@ -128,6 +131,21 @@
       "email": "a@gmail.com",
       "password": "12345",
       "id": 2
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "email": "tst@gmail.com",
+      "password": "12345",
+      "id": 5
     }
   ]
 }
