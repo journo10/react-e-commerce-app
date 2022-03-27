@@ -96,13 +96,6 @@
       "password": "12345",
       "passwordConfirm": "12345",
       "id": 2
-    },
-    {
-      "name": "Test",
-      "email": "test@gmail.com",
-      "password": "12345",
-      "passwordConfirm": "12345",
-      "id": 3
     }
   ],
   "login": [
@@ -115,11 +108,6 @@
       "email": "test@gmail.com",
       "password": "12345",
       "id": 2
-    },
-    {
-      "email": "test@gmail.com",
-      "password": "12345",
-      "id": 3
-    } 
+    }
   ]
 }
