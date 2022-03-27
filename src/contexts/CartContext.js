@@ -30,7 +30,6 @@ const CartProvider = ({ children }) => {
 
   //tümünü sil
   const clearAllCart = () => {
-    //tam emin değilim,kod çalışıyor ama yanlış olabilir.
     setItems([]);
   };
 
