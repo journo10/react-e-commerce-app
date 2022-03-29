@@ -19,8 +19,8 @@ const ProductsAdd = ({ getProductsData }) => {
     e.preventDefault()
     const newProduct = {
       name: form.name,
-      price: form.price,
-      unitsInStock: form.unitsInStock,
+      price: +form.price,
+      unitsInStock: +form.unitsInStock,
       description: form.description,
       imageUrl: form.imageUrl,
       category: form.category
