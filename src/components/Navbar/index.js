@@ -2,10 +2,16 @@ import React from "react";
 import { Link, Outlet } from "react-router-dom";
 import { useAuth } from "../../contexts/AuthContext";
 import { useCart } from "../../contexts/CartContext";
+import { useTheme } from "../../contexts/ThemeContext";
 
 const Navbar = () => {
   const { loggedIn } = useAuth();
   const { items } = useCart();
+  const { theme, setTheme } = useTheme();
+
+  const handleOnTheme = () => {
+    setTheme(theme === "dark" ? "light" : "dark");
+  };
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-3 sticky-top">
@@ -49,6 +55,11 @@ const Navbar = () => {
                 </Link>
               </li>
             )}
+            <li className="nav-item">
+              <button onClick={handleOnTheme} id="icon-btn" className="btn-sm">
+                Tema<i class="fab fa-affiliatetheme"></i>
+              </button>
+            </li>
             {!loggedIn && (
               <>
                 <li className="nav-item">

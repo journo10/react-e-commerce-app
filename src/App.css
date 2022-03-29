@@ -1,11 +1,11 @@
-.link{
-    text-decoration: none;
-    color: black;
+.link {
+  text-decoration: none;
+  color: black;
 }
 
-.link:hover{
-    text-decoration: none;
-    color:white;
+.link:hover {
+  text-decoration: none;
+  color: white;
 }
 
 main {
@@ -48,8 +48,28 @@ main {
 }
 
 .container1 {
-width: 600px;
-position: relative;
-top: 0;
-left: 30%; 
+  width: 600px;
+  position: relative;
+  top: 0;
+  left: 30%;
+}
+
+body.light {
+  background: #eee;
+  color: black;
+}
+
+body.dark {
+  background: #333;
+  color: red;
+}
+
+#icon-btn {
+  outline: none;
+  border: none;
+  margin-top: 5px;
+}
+
+.fab {
+  padding: 5px;
 }

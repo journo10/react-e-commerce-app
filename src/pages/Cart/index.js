@@ -18,7 +18,7 @@ const Cart = () => {
           <div className="card2 mt-3">
             <h4>Sepet boş</h4>
             <h6>Ürün eklemek için satın al butonuna tıklayınız.</h6>
-            <Link to="/" className="btn btn-outline-dark">
+            <Link to="/" className="btn btn-outline-success">
               Satın al
             </Link>
           </div>
