@@ -84,30 +84,18 @@
   ],
   "register": [
     {
-      "name": "a",
-      "email": "a@gmail.com",
-      "password": "12345",
-      "passwordConfirm": "12345",
-      "id": 1
-    },
-    {
       "name": "Test",
       "email": "test@gmail.com",
       "password": "12345",
       "passwordConfirm": "12345",
-      "id": 2
+      "id": 1
     }
   ],
   "login": [
     {
-      "email": "a@gmail.com",
-      "password": "12345",
-      "id": 1
-    },
-    {
       "email": "test@gmail.com",
       "password": "12345",
-      "id": 2
+      "id": 1
     }
   ]
 }
